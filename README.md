@@ -1,1 +1,1 @@
-# JAVA-Project
+# Student Management System
